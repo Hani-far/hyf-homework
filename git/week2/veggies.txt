@@ -1,5 +1,7 @@
 potato
 carrot
-corn
+cucumber
 broccoli
 mushroom
+eggplant
+green pepper
