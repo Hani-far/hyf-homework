@@ -3,5 +3,3 @@ carrot
 onion
 broccoli
 mushroom
-eggplant
-green pepper
